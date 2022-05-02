@@ -11,19 +11,11 @@
 ![React](https://img.shields.io/badge/React&nbsp;Native-262424?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-262424?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Express](https://img.shields.io/badge/Express-262424?style=for-the-badge&logo=Express)
-![Postman](https://img.shields.io/badge/Postman-262424?style=for-the-badge&logo=Postman)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262424?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/MySQL-262424?style=for-the-badge&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/SQLite-262424?style=for-the-badge&logo=SQLite&logoColor=003B57)
 ![Flask](https://img.shields.io/badge/Flask-262424?style=for-the-badge&logo=Flask)
-![PyQT](https://img.shields.io/badge/PyQT-262424?style=for-the-badge&logo=Qt)
-![C++](https://img.shields.io/badge/C++-262424?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Slack](https://img.shields.io/badge/Slack-262424?style=for-the-badge&logo=Slack&logoColor=4A154B)
-![Heroku](https://img.shields.io/badge/Heroku-262424?style=for-the-badge&logo=Heroku&logoColor=430098)
-![Git](https://img.shields.io/badge/Git-262424?style=for-the-badge&logo=Git)
-![AdobePhotoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-262424?style=for-the-badge&logo=AdobePhotoshop)
 ![Figma](https://img.shields.io/badge/Figma-262424?style=for-the-badge&logo=Figma)
-![FileZilla](https://img.shields.io/badge/FileZilla-262424?style=for-the-badge&logo=FileZilla&logoColor=BF0000)
 
 ## Statistics
 
