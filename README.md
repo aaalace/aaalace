@@ -8,7 +8,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/React&nbsp;Native-262424?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-262424?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Express](https://img.shields.io/badge/Express-262424?style=for-the-badge&logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262424?style=for-the-badge&logo=PostgreSQL)
