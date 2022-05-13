@@ -4,16 +4,15 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
-![Node.js](https://img.shields.io/badge/Node.js-262424?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-262424?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Express](https://img.shields.io/badge/Express-262424?style=for-the-badge&logo=Express)
+![Flask](https://img.shields.io/badge/Flask-262424?style=for-the-badge&logo=Flask)
+![Django](https://img.shields.io/badge/Django-262424?style=for-the-badge&logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262424?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/MySQL-262424?style=for-the-badge&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/SQLite-262424?style=for-the-badge&logo=SQLite&logoColor=003B57)
-![Flask](https://img.shields.io/badge/Flask-262424?style=for-the-badge&logo=Flask)
 ![Figma](https://img.shields.io/badge/Figma-262424?style=for-the-badge&logo=Figma)
 
 ## Statistics
