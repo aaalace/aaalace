@@ -3,8 +3,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+![HTML](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS&logoColor=1572B6)\
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-262424?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Flask](https://img.shields.io/badge/Flask-262424?style=for-the-badge&logo=Flask)
