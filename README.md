@@ -2,7 +2,7 @@
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/-CSharp-262424?style=for-the-badge&logo=CSharp)
+![C#](https://img.shields.io/badge/CSharp-262424?style=for-the-badge&logo=CSharp)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-262424?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
