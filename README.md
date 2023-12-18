@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-262424?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+![Docker](https://img.shields.io/badge/Docker-262424?style=for-the-badge&logo=Docker)
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-262424?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Flask](https://img.shields.io/badge/Flask-262424?style=for-the-badge&logo=Flask)
