@@ -1,7 +1,7 @@
 ## Languagues and Tools
 
 
-![C#](https://img.shields.io/badge/-C-262424?style=for-the-badge&logo=CSharp&logoColor=280068)
+![C#](https://img.shields.io/badge/-CSharp-262424?style=for-the-badge&logo=CSharp&logoColor=684D95)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-262424?style=for-the-badge&logo=HTML5)
