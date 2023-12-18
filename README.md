@@ -1,5 +1,3 @@
-# Full Stack Developer
-
 ## Languagues and Tools
 
 
