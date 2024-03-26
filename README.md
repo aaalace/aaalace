@@ -2,8 +2,9 @@
 
 
 ![C#](https://img.shields.io/badge/-CSharp-262424?style=for-the-badge&logo=CSharp&logoColor=684D95)
-![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-262424?style=for-the-badge&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-262424?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-262424?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-262424?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-262424?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
 ![Docker](https://img.shields.io/badge/Docker-262424?style=for-the-badge&logo=Docker)
