@@ -10,7 +10,7 @@
 ![.NET](https://img.shields.io/badge/Asp.net-262424?style=for-the-badge&logo=dotnet&logoColor=764ABC)
 ![Django](https://img.shields.io/badge/Django-262424?style=for-the-badge&logo=Django&logoColor=0c4b33)
 ![Docker](https://img.shields.io/badge/Docker-262424?style=for-the-badge&logo=Docker)
-![Postgre](https://img.shields.io/badge/PostgreSQL-262424?style=for-the-badge&logo=PostgreSQL)
+![Postgre](https://img.shields.io/badge/Postgre-262424?style=for-the-badge&logo=PostgreSQL)
 ![React](https://img.shields.io/badge/React-262424?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-262424?style=for-the-badge&logo=redux&logoColor=764ABC)
 
