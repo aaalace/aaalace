@@ -15,7 +15,7 @@
 
 ## Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalace&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalace&theme=dark&exclude_repo=nhgp)
 
 ## Contacts
 
