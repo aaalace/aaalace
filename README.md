@@ -30,7 +30,7 @@
 
 ## Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalace&theme=dark&exclude_repo=nhgp,aDisk,web_YLProject&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalace&theme=dark&exclude_repo=nhgp,aDisk,web_YLProject&langs_count=10)
 
 ## Contacts
 
